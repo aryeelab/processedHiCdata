@@ -1,0 +1,23 @@
+---
+title: "processedHiCdata: Hi-C output from a variety of platforms"
+author: "Caleb Lareau & Martin Aryee"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{processedHiCdata}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+The `processedHiCdata` package contains example data sets for use with Hi-C
+analysis packages. The initial version of this package is intended for 
+the sparseHiC package.
+
+Initial samples include the HiC data from mouse and human stem cells
+previously described.$^1$
+
+
+$^1$ Dixon JR, Selvaraj S, Yue F, Kim A et al. Topological domains in
+mammalian genomes identified by analysis of chromatin interactions.
+Nature 2012 Apr 11;485(7398):376-80. PMID: 22495300
+
