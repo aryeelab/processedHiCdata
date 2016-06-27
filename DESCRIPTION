@@ -1,4 +1,4 @@
-Package: processedHiCData
+Package: processedHiCdata
 Type: Package
 Title: Processed Hi-C from a variety of pre-processing platforms
 Version: 0.1.0
