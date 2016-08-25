@@ -11,9 +11,9 @@ vignette: >
 
 The `processedHiCdata` package contains example data sets for use with Hi-C
 analysis packages. The initial version of this package is intended for 
-the sparseHiC package.
+the sparseHiC package. The output from these data are from Hi-C Pro.
 
-Initial samples include the HiC data from mouse and human stem cells
+Initial samples include the HiC data from human stem cells and IMR90 cells
 previously described.$^1$
 
 
